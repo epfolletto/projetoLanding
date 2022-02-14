@@ -34,15 +34,11 @@ Aplicativo para cálculo de gorjeta com valor total de gorjeta por pessoa. Desen
 
 Construído com:
 
-- HTML Semântico
+- HTML5
 
 - SASS
 
-- Design mobile-first
-
 - JavaScript
-
-- Figma
 
 - Visual Studio Code
 
@@ -52,4 +48,4 @@ Construído com:
 
 [**Evandro Paulo Folletto**](https://github.com/epfolletto)
 
-[![Twitter Badge](https://img.shields.io/badge/-@nayalink-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nayalink)](https://twitter.com/nayalink) [![Linkedin Badge](https://img.shields.io/badge/-Nayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-silva/)](https://www.linkedin.com/in/nayara-silva/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-silva/)](https://www.linkedin.com/in/nayara-silva/) 
