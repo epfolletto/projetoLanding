@@ -9,23 +9,23 @@
 
 # Calculator App
 
-## Status: Finalizado
+# Status: Finalizado
 
 # Sobre
 
 Aplicativo para cálculo de gorjeta com valor total de gorjeta por pessoa. Desenvolvido a partir do desafio do site [FrontendMentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
 
-## Funcionalidades
+# Funcionalidades
 
 - [x] Otimização de layout de acordo com o tamanho da tela
 - [x] Adição de elementos interativos de acordo com o status da aplicação
 - [x] Cálculo do valor da gorjeta e custo total da conta por pessoa
 
-## Links
+# Links
 
 - [URL do Site](https://primeiroprojetolandingpage.netlify.app/)
 
-## Tecnologias 
+# Tecnologias 
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -39,9 +39,9 @@ Construído com:
 
 - Visual Studio Code
 
-## Autor
+# Autor
 
-[**Evandro Paulo Folletto**](https://github.com/epfolletto)
+Evandro Paulo Folletto
 
 <div>
   <a href="https://github.com/epfolletto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
