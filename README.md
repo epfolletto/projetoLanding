@@ -2,15 +2,11 @@
 
 # Calculator App
 
-
+## Status: Finalizado
 
 ## Sobre
 
 Aplicativo para cálculo de gorjeta com valor total de gorjeta por pessoa. Desenvolvido a partir do desafio do site [FrontendMentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
-
-
-
-### 🏁 Finalizado 🏁
 
 
 
