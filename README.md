@@ -15,15 +15,19 @@ Landing page
 Finalizado
 
 # Sobre
-Página Web desenvolvida com a finalidade de aprendizagem dos conteúdos de HTML5 e CSS. O body do HTML da página é dividido em 8 (oito) partes: 
-- menu: utiliza o evento de clique para rolar a página;
-- logo/home: utiliza duas divs, uma ao lado da outra, onde uma delas importa uma imagem salva;
-- intro: uma única div com três parágrafos, espaçados entre si;
-- grid-one: utiliza o conceito de grid, com uma linha e três colunas;
-- gallery: utiliza o conceito de grid, importando imagens do sirte unsplash.com;
-- grid-two: utiliza o conceito de grid, com uma linha e três colunas;
-- pricing: composto por duas divs. Utiliza o conceito de tabela;
-- contact: composto por três divs. Uma delas utiliza a tag fieldset.
+Página Web desenvolvida com a finalidade de aprendizagem dos conteúdos de HTML5 e CSS. O HTML da página é organizado da seguinte forma: 
+- head:
+    - importa fontes do google fonts;
+    - relaciona cinco arquivos de css.
+- body
+    - menu: utiliza o evento de clique para rolar a página;
+    - logo/home: utiliza duas divs, uma ao lado da outra, onde uma delas importa uma imagem salva;
+    - intro: uma única div com três parágrafos, espaçados entre si;
+    - grid-one: utiliza o conceito de grid, com uma linha e três colunas;
+    - gallery: utiliza o conceito de grid, importando imagens do sirte unsplash.com;
+    - grid-two: utiliza o conceito de grid, com uma linha e três colunas;
+    - pricing: composto por duas divs. Utiliza o conceito de tabela;
+    - contact: composto por três divs. Uma delas utiliza a tag fieldset.
 
 # Funcionalidades
 - [x] Otimização de layout de acordo com o tamanho da tela
