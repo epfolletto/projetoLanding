@@ -1,13 +1,14 @@
 <p align="center">
-  <a href="#sobre">Sobre</a> ◦ 
-  <a href="#status">Status</a> ◦ 
-  <a href="#funcionadlidades">Funcionalidades</a> ◦ 
-  <a href="#tecnologias">Tecnologias</a> ◦ 
-  <a href="#link">Link</a> ◦ 
-  <a href="#autor">Autor</a>
+  <a href="#Projeto">Projeto</a> ◦ 
+  <a href="#Status">Status</a> ◦ 
+  <a href="#Sobre">Sobre</a> ◦ 
+  <a href="#Funcionadlidades">Funcionalidades</a> ◦ 
+  <a href="#Tecnologias">Tecnologias</a> ◦ 
+  <a href="#Link">Link</a> ◦ 
+  <a href="#Autor">Autor</a>
 </p>
 
-# Projeto:
+# Projeto
 Landing page
 
 # Status
@@ -18,8 +19,8 @@ Página Web desenvolvida com a finalidade de aprendizagem dos conteúdos de HTML
 
 # Funcionalidades
 - [x] Otimização de layout de acordo com o tamanho da tela
+- [x] Menu fixo com efeito scroll
 - [x] Adição de elementos interativos de acordo com o status da aplicação
-- [x] Cálculo do valor da gorjeta e custo total da conta por pessoa
 
 # Links
 A hospedagem foi feita utilizando o Netilify, que oferece serviço de hospedagem de sites para aplicativos da web e sites estáticos.
