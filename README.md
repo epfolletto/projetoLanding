@@ -34,7 +34,7 @@ Página Web desenvolvida com a finalidade de aprendizagem dos conteúdos de HTML
 - [x] Menu fixo com efeito scroll
 - [x] Botão de rolagem para o topo 
 
-# Links
+# Link
 A hospedagem foi feita utilizando o Netilify, que oferece serviço de hospedagem de sites para aplicativos da web e sites estáticos.
 - [URL do Site](https://primeiroprojetolandingpage.netlify.app/)
 
