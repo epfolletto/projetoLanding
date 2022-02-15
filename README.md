@@ -2,7 +2,7 @@
   <a href="#Projeto">Projeto</a> ◦ 
   <a href="#Status">Status</a> ◦ 
   <a href="#Sobre">Sobre</a> ◦ 
-  <a href="#Funcionadlidades">Funcionalidades</a> ◦ 
+  <a href="#Funcionalidades">Funcionalidades</a> ◦ 
   <a href="#Tecnologias">Tecnologias</a> ◦ 
   <a href="#Link">Link</a> ◦ 
   <a href="#Autor">Autor</a>
